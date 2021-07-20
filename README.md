@@ -83,5 +83,3 @@ users
 - Intoduction sceens
 
 ![poster](./assets/poster2.png)
-
-<h2 align="center">Please star 🌟 the project if you like.</h2>
