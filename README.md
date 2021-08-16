@@ -9,8 +9,7 @@ This is UI model of the Online Doctor Appointment booking App. It is connected t
 
 <h2>Project UI/UX case study portfolio</h2>
 
-[Behance Link :arrow_upper_right:](https://www.behance.net/gallery/118230811/Doctor-Appointment-App)
-<br/>
+
 <br/>
 
 <h2>Directory Structure</h2>
